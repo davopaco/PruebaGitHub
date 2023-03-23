@@ -1,0 +1,2 @@
+1. ¿Qué es el acoplamiento en la modularidad?
+	Ese el grado de interdependencia entre los módulos de un sistema.
